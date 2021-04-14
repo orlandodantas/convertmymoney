@@ -27,7 +27,7 @@
     },
     {
       "src": "/api.bcb",
-      "dest": "/api.bcb.js",
+      "dest": "./lib/api.bcb.js",
       "methods": [
         "GET"
       ]
