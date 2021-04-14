@@ -24,13 +24,6 @@
       "methods": [
         "GET"
       ]
-    },
-    {
-      "src": "/api.bcb",
-      "dest": "./lib/api.bcb.js",
-      "methods": [
-        "GET"
-      ]
     }
   ]
 }
